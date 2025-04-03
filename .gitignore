@@ -1,0 +1,15 @@
+.env
+/node_modules
+/.pnp
+/.pnp.js
+/.turbo
+/.next
+/.vercel
+/.output
+/.cache
+/.nuxt
+/.nuxtg
+/.nuxtg-static
+/.nuxtg-ssr 
+# Local Netlify folder
+.netlify
